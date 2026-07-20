@@ -864,8 +864,6 @@ st.markdown("""
     </div>
     <div class="topbar-pills">
         <span class="topbar-pill active">Predictor</span>
-        <span class="topbar-pill">Analytics</span>
-        <span class="topbar-pill">Reports</span>
     </div>
     <div class="topbar-status">Model Active</div>
 </div>
@@ -876,7 +874,7 @@ st.markdown("""
 <div class="hero">
     <div class="hero-eyebrow">
         <span class="hero-eyebrow-dot"></span>
-        ML · Predictive Analytics · GBM v2.1
+        ML · Predictive Analytics · Random Forest
     </div>
     <h1 class="hero-title">Customer <span class="grad">Churn Intelligence</span></h1>
     <p class="hero-sub">Identify at-risk customers before they leave using a trained gradient-boosted classifier</p>
