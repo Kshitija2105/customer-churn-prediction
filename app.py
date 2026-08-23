@@ -877,7 +877,7 @@ st.markdown("""
         ML · Predictive Analytics · Random Forest
     </div>
     <h1 class="hero-title">Customer <span class="grad">Churn Intelligence</span></h1>
-    <p class="hero-sub">Identify at-risk customers before they leave using a trained gradient-boosted classifier</p>
+    <p class="hero-sub">Identify at-risk customers before they leave using a trained Random Forest classifier</p>
     <div class="hero-stats">
         <div class="hero-stat">
             <div class="hero-stat-value">94.2%</div>
